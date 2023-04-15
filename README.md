@@ -75,7 +75,7 @@ Terraform validate
 Terraform plan
 Terraform apply 
 
-tpgrp17/environment/prod/wenserver/
+tpgrp17/environment/prod/webserver/
 
 Terraform init 
 Terraform fmt
